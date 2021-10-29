@@ -1,5 +1,8 @@
 ### Hi there 👋
+My name is Peshcom!
 
+- 🔭 I am currently freelancing
+- 🌱 I am currently learning how to develop sustainable and loaded web projects
 
 ## 🛠 My fancy badge area
 
